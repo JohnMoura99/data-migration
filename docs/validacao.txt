@@ -1,0 +1,9 @@
+[OK] Total de linhas: obtido=2000000 | esperado=2000000
+[OK] Pedidos duplicados: obtido=0 | esperado=0
+[OK] Soma de valor_total: obtido=499386755.8 | esperado=499386755.8000001
+[OK] Nulos em cidade: obtido=20000 | esperado=20000
+[OK] Nulos em colunas obrigatórias: obtido=0 | esperado=0
+[OK] Linhas com valor_total incorreto: obtido=0 | esperado=0
+[OK] Linhas com status inválido: obtido=0 | esperado=0
+[OK] Linhas com quantidade inválida: obtido=0 | esperado=0
+8 de 8 checagens passaram

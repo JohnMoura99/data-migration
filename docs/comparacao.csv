@@ -1,0 +1,5 @@
+arquivo,tamanho_mb,tempo_escrita_s,tempo_leitura_arquivo_s,tempo_col_valor_total_s
+CSV,239.89,,6.73,2.217
+parquet_none,87.98,1.58,0.34,0.134
+parquet_snapy,57.19,1.62,0.23,0.033
+parquet_zstd,41.9,1.91,0.25,0.027
